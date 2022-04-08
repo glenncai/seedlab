@@ -11,7 +11,7 @@ The learning objective of this lab is for students to gain the first-hand experi
 
 ### Details
 
-<a href="./IERG4130_SoftwareLab.pdf">Click here to view task details 👈</a>
+<a href="./IERG4130_SoftwareLab.pdf" target="_blank">Click here to view task details 👈</a>
 
 # Web Security (Cross-Site Scripting Attack)
 
@@ -28,4 +28,4 @@ To demonstrate what attackers can do by exploiting XSS vulnerabilities, we have 
 
 ### Details
 
-<a href="./IERG4130_WebLab.pdf">Click here to view task details 👈</a>
+<a href="./IERG4130_WebLab.pdf" target="_blank">Click here to view task details 👈</a>
